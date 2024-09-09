@@ -4,6 +4,11 @@
 @import url(menu.css);
 @import url(testimonials.css);
 @import url(footer.css);
+
+:root {
+    --color-primary-1: #fff9ea;
+}
+
 * {
     font-family: 'Poppins', sans-serif;
     margin: 0;
@@ -12,7 +17,7 @@
 }
 
 body {
-    background-color: #fff9ea;
+    background-color: var(--color-primary-1);
 }
 
 section {
