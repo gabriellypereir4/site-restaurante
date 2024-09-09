@@ -32,7 +32,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #var(--color-primary-4);
+    background-color: var(--color-primary-4);
     border-radius: 12px;
     padding: 10px 14px;
     font-weight: 600;
