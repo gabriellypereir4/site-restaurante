@@ -64,8 +64,8 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 20px;
-    height: 20px;
+    width: 26px;
+    height: 26px;
     background-color: var(--color-neutral-0);
     font-size: 1.25rem;
     border-radius: 10px;
