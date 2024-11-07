@@ -15,8 +15,8 @@ header {
 }
 
 #nav-logo {
-    font-size: 24px;
-    color: var(--color-primary-5);
+    width: 30px;
+    height: 30px;
 }
 
 #nav-list {
@@ -75,4 +75,12 @@ header {
         list-style: none;
         text-align: center;
     }
+}
+
+#titulo-logo {
+    font-size: 20px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    gap: 6px;
 }
