@@ -28,7 +28,7 @@ header {
 .nav-item a {
     text-decoration: none;
     color: #1d1d1d;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 .nav-item.active a {
