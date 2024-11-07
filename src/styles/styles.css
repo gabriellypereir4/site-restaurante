@@ -11,7 +11,6 @@
     --color-primary-3: #f8d477;
     --color-primary-4: #ff2626;
     --color-primary-5: #DB0000;
-    --color-primary-6: #e9a209;
 
     --color-neutral-0: #fff;
     --color-neutral-1: #1d1d1d;
@@ -81,7 +80,7 @@ section {
 }
 
 .section-title {
-    color: var(--color-primary-6);
+    color: var(--color-primary-5);
     font-size: 1.563rem;
 }
 
