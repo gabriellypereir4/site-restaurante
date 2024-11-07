@@ -63,17 +63,6 @@
     width: fit-content;
 }
 
-.shape {
-    background-color: var(--color-primary-2);
-    width: 50%;
-    height: 100%;
-    position: absolute;
-    border-radius: 40% 30% 0% 20%;
-    top: 0;
-    right: 0;
-    z-index: 1;
-}
-
 @media screen and (max-width: 1170px) {
     #home{
         min-height: 100%;
@@ -97,4 +86,8 @@
     #phone-button button {
         display: none;
     }
+}
+
+#banner-image {
+    width: 500px;
 }
