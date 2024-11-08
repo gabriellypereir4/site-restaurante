@@ -25,6 +25,11 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    position: absolute;
     color: var(--color-primary-1);
+    gap: 8px;
+}
+
+#button-vm {
+    display: flex;
+    justify-content: end;
 }
