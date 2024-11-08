@@ -7,12 +7,11 @@
 
 :root {
     --color-primary-1: #ffffff;
-    --color-primary-2: #ffe8b4;
+    --color-primary-2: #DB0000;
     --color-primary-3: #f8d477;
     --color-primary-4: #ff2626;
     --color-primary-5: #DB0000;
 
-    --color-neutral-0: #fff;
     --color-neutral-1: #1d1d1d;
 }
 
@@ -66,7 +65,6 @@ section {
     justify-content: center;
     width: 26px;
     height: 26px;
-    background-color: var(--color-neutral-0);
     font-size: 1.25rem;
     border-radius: 10px;
     text-decoration: none;
