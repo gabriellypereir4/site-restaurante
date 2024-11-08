@@ -100,3 +100,10 @@
     font-weight: 300;
     margin-top: 6px;
 }
+
+.btn-vm {
+    color: var(--color-primary-5);
+    border: none;
+    background-color: var(--color-primary-1);
+    text-decoration: underline;
+}
